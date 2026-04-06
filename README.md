@@ -68,7 +68,7 @@ Using Fast Fourier Transform (FFT), the audio signal is converted from the time 
 ## 📄 Project Report
 Detailed explanation of methodology, FFT analysis, filtering process, and results is available in the report.
 
-👉 [Click here to view](docs/dsp-report.pdf)
+👉 [Click here to view](doc/dsp-report.pdf)
 ---
 
 ## 📈 Key Insights
